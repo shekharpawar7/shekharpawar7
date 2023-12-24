@@ -26,9 +26,6 @@
   <a href="https://linkedin.com/in/shekharpawar7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-shekharpawar7-blue" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/mr.sp7_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-mr.sp7_-purple" alt="Instagram">
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,4 +46,17 @@
   &nbsp;Machine Learning&nbsp;&nbsp;
   <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://iconarchive.com/download/i110031/fabian-kron/davinci-resolve/DaVinci-Resolve-Logo-Black.png" alt="DaVinci Resolve" width="40" height="40"/>
+  &nbsp;DaVinci Resolve&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
+  &nbsp;&nbsp;Jupyter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://iconarchive.com/download/i108683/spyder/python-plotting-spyder.png" alt="Spyder" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spyder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  &nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
