@@ -30,31 +30,33 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <span style="font-size: 18px;">Python</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">SQL</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">PostgreSQL</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">Power BI</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">Graphic Design</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">NLP</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">Machine Learning</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">Flask</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">DaVinci Resolve</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">Jupyter</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">Spyder</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">HTML</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">CSS</span>
-  &nbsp;&nbsp;
-  <span style="font-size: 18px;">Bootstrap</span>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;Python&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
+  &nbsp;&nbsp;SQL&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+  &nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;
+  <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi_logo.svg" alt="Power BI" width="40" height="40"/>
+  &nbsp;&nbsp;Power BI&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/graphic-design.png" alt="Graphic Design" width="40" height="40"/>
+  &nbsp;&nbsp;Graphic Design&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/natural-language-processing.png" alt="NLP" width="40" height="40"/>
+  &nbsp;&nbsp;NLP&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" width="40" height="40"/>
+  &nbsp;&nbsp;Machine Learning&nbsp;&nbsp;
+  <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask" width="40" height="40"/>
+  &nbsp;&nbsp;Flask&nbsp;&nbsp;
+  <img src="https://iconarchive.com/download/i110031/fabian-kron/davinci-resolve/DaVinci-Resolve-Logo-Black.png" alt="DaVinci Resolve" width="40" height="40"/>
+  &nbsp;&nbsp;DaVinci Resolve&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
+  &nbsp;&nbsp;Jupyter&nbsp;&nbsp;
+  <img src="https://iconarchive.com/download/i108683/spyder/python-plotting-spyder.png" alt="Spyder" width="40" height="40"/>
+  &nbsp;&nbsp;Spyder&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+  &nbsp;&nbsp;HTML&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  &nbsp;&nbsp;CSS&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  &nbsp;&nbsp;Bootstrap&nbsp;&nbsp;
 </p>
+
