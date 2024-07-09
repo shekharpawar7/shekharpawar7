@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shekharpawar7)
 
-- 💬 Ask me about **Python, SQL, NLP, Machine Learning**
+- 💬 Ask me about **Python, SQL, NLP, Machine Learning, AI ,OpenCV**
 
 - 📫 How to reach me: [shekharpawar0777@gmail.com](mailto:shekharpawar0777@gmail.com)
 
